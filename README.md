@@ -25,8 +25,8 @@ This registry contains 2 WAVI example projects grouped into 0 categories. If you
 - 🥇🥈🥉&nbsp; Combined project-quality score
 - ⭐️&nbsp; Star count from GitHub
 - 🐣&nbsp; New project _(less than 6 months old)_
-- 💤&nbsp; Inactive project _(99999 months no activity)_
-- 💀&nbsp; Dead project _(99999 months no activity)_
+- 💤&nbsp; Inactive project _(18 months no activity)_
+- 💀&nbsp; Dead project _(36 months no activity)_
 - 📈📉&nbsp; Project is trending up or down
 - ➕&nbsp; Project was recently added
 - ❗️&nbsp; Warning _(e.g. missing/risky license)_
@@ -43,7 +43,7 @@ This registry contains 2 WAVI example projects grouped into 0 categories. If you
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/alextbradley/PIG-CES">PIG-CES</a></b> (🥇8) - Code and Data for Detection and attribution of anthropogenic climate.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/alextbradley/PIG-CES">PIG-CES</a></b> (🥇8) - Code and Data for Detection and attribution of anthropogenic climate.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>Real-world</code> <code>Antarctica</code></summary>
 
 - [GitHub](https://github.com/alextbradley/PIG-CES) (⏱️ 15.05.2025):
 
@@ -51,7 +51,7 @@ This registry contains 2 WAVI example projects grouped into 0 categories. If you
 	git clone https://github.com/alextbradley/PIG-CES
 	```
 </details>
-<details><summary><b><a href="https://github.com/WAVI-ice-sheet-model/EKI_idealised_PIG-example">EKI_idealised_PIG-example</a></b> (🥉7) -  <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/WAVI-ice-sheet-model/EKI_idealised_PIG-example">EKI_idealised_PIG-example</a></b> (🥉7) -  <code>❗Unlicensed</code> <code>Idealised</code> <code>Antarctica</code></summary>
 
 - [GitHub](https://github.com/WAVI-ice-sheet-model/EKI_idealised_PIG-example) (⏱️ 29.09.2025):
 
