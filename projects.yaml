@@ -4,34 +4,34 @@ configuration:
   min_description_length: 0
   allowed_licenses: ["all"]
   require_license: False
-  project_inactive_months: 99999
-  project_dead_months: 99999
+  project_inactive_months: 18
+  project_dead_months: 36
   hide_empty_categories: True
   markdown_header_file: "config/header.md"
   markdown_footer_file: "config/footer.md"
 
 categories:
-   - category: "EKI"
-     title: "Ensemble Kalman Inversion (EKI) examples"
-   - category: "Inversion"
-     title: "Inversion examples"
+  - category: "EKI"
+    title: "Ensemble Kalman Inversion (EKI) examples"
+  - category: "Inversion"
+    title: "Inversion examples"
 
 labels:
-   - label: "Idealised"
-     description: "Idealised example"
-   - label: "Real-world"
-     description: "Real-world example"
-   - label: "Antarctic"
-     description: "Antarctic example"
-   - label: "Greenland"
-     description: "Greenland example"
+  - label: "Idealised"
+    description: "Idealised example"
+  - label: "Real-world"
+    description: "Real-world example"
+  - label: "Antarctica"
+    description: "Antarctic example"
+  - label: "Greenland"
+    description: "Greenland example"
 
 projects:
    - name: EKI_idealised_PIG-example
      github_id: WAVI-ice-sheet-model/EKI_idealised_PIG-example
-     labels: ["Idealised", "Antarctic"]
+     labels: ["Idealised", "Antarctica"]
      category: "EKI"
    - name: PIG-CES
      github_id: alextbradley/PIG-CES
-     labels: ["Real-world", "Antarctic"]
+     labels: ["Real-world", "Antarctica"]
      category: "EKI"
