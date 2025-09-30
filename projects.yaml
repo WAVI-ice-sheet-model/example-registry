@@ -1,4 +1,10 @@
 configuration:
+  min_stars: 0
+  min_projectrank: 0
+  allowed_licenses: ["all"]
+  project_inactive_months: 99999
+  project_dead_months: 99999
+  hide_empty_categories: True
   markdown_header_file: "config/header.md"
   markdown_footer_file: "config/footer.md"
 
