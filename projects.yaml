@@ -6,19 +6,19 @@ configuration:
   require_license: False
   project_inactive_months: 18
   project_dead_months: 36
-  hide_empty_categories: True
   markdown_header_file: "config/header.md"
   markdown_footer_file: "config/footer.md"
 
 categories:
-  - category: "Standard WAVI"
-    title: "Standard WAVI examples"
-  - category: "EKP"
-    title: "Ensemble Kalman Processes (EKP) examples"
-  - category: "Inversion"
-    title: "Inversion examples"
-  - category: "MITgcm"
-    title: "MITgcm coupled examples"
+  - category: "MISMIP"
+    title: "Model Intercomparison"
+    subtitle: "Idealised intercomparison domains, including Marine Ice Sheet Model Intercomparison v1-v3 (MISMIP), Ice Shelf-Ocean MIP (ISOMIP), Marine Ice Sheet–Ocean MIP (MISOMIP)."
+  - category: "Amundsen Sea"
+    title: "Amundsen Sea Sector
+    subtitle: "Including Pine Island Glacier and Thwaites Glacier"
+  - category: "Greenland"
+    title: "Greenland Ice Sheet"
+    subtitle: "Including...?"
 
 labels:
   - label: "Idealised"
@@ -29,15 +29,19 @@ labels:
     image: https://hatscripts.github.io/circle-flags/flags/aq.svg
   - label: "Greenland"
     image: https://hatscripts.github.io/circle-flags/flags/gl.svg
-  - label: "PIG"
-    name: "Pine Island Glacier"
-
+  - label: "EKP"
+    name: "Ensemble Kalman Process"
+  - label: "Inversion"
+    name: "Inversion"
+  - label: "MITgcm"
+    name: "MITgcm coupled"
+  
 projects:
    - name: EKI_idealised_PIG-example
      github_id: WAVI-ice-sheet-model/EKI_idealised_PIG-example
-     labels: ["Idealised", "Antarctica", "PIG"]
-     category: "EKP"
+     labels: ["Idealised", "Antarctica", "PIG", "EKP", "Inversion"]
+     category: "Amundsen Sea"
    - name: PIG-CES
      github_id: alextbradley/PIG-CES
-     labels: ["Real-world", "Antarctica", "PIG"]
-     category: "EKP"
+     labels: ["Real-world", "Antarctica", "PIG", "EKP"]
+     category: "Amundsen Sea"
