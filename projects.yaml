@@ -22,13 +22,13 @@ categories:
 
 labels:
   - label: "Idealised"
-    description: "Idealised example"
+    name: "Idealised"
   - label: "Real-world"
-    description: "Real-world example"
+    name: "Real-world"
   - label: "Antarctica"
-    description: "Antarctic example"
+    name: "Antarctica"
   - label: "Greenland"
-    description: "Greenland example"
+    name: "Greenland"
 
 projects:
    - name: EKI_idealised_PIG-example
