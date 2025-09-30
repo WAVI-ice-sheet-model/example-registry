@@ -15,11 +15,15 @@
     <a href="https://github.com/WAVI-ice-sheet-model/example-registry/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/WAVI-ice-sheet-model/example-registry?color=green&label=updated"></a>
 </p>
 
-This registry contains 2 WAVI example projects grouped into 0 categories. If you like to add or update projects, feel free to open an [issue](https://github.com/WAVI-ice-sheet-model/example-registry/issues/new/choose), submit a [pull request](https://github.com/WAVI-ice-sheet-model/example-registry/pulls), or directly edit the [projects.yaml](https://github.com/WAVI-ice-sheet-model/example-registry/edit/main/projects.yaml). Contributions are very welcome!
+This registry contains 2 WAVI example repositories grouped into 0 categories. The current categories and labels are _experimental_ and should be seen as placeholders.
+
+If you like to add or update projects, feel free to open an [issue](https://github.com/WAVI-ice-sheet-model/example-registry/issues/new/choose), submit a [pull request](https://github.com/WAVI-ice-sheet-model/example-registry/pulls), or directly edit the [projects.yaml](https://github.com/WAVI-ice-sheet-model/example-registry/edit/main/projects.yaml). Contributions are very welcome!
+
+Are you looking for *publications* that use WAVI? You can find these [on our website](https://wavi-ice-sheet-model.github.io/WAVI-website/publications/).
 
 ## Contents
 
-- [Ensemble Kalman Inversion (EKI) examples](#ensemble-kalman-inversion-eki-examples) _2 projects_
+- [Ensemble Kalman Processes (EKP) examples](#ensemble-kalman-processes-ekp-examples) _2 projects_
 
 ## Explanation
 - 🥇🥈🥉&nbsp; Combined project-quality score
@@ -39,11 +43,11 @@ This registry contains 2 WAVI example projects grouped into 0 categories. If you
 
 <br>
 
-## Ensemble Kalman Inversion (EKI) examples
+## Ensemble Kalman Processes (EKP) examples
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/alextbradley/PIG-CES">PIG-CES</a></b> (🥇8) - Code and Data for Detection and attribution of anthropogenic climate.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>Real-world</code> <code>Antarctica</code></summary>
+<details><summary><b><a href="https://github.com/alextbradley/PIG-CES">PIG-CES</a></b> (🥇8) - Code and Data for Detection and attribution of anthropogenic climate.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>Real-world</code> <code><img src="https://hatscripts.github.io/circle-flags/flags/aq.svg" style="display:inline;" width="13" height="13">Antarctica</code> <code>Pine Island Glacier</code></summary>
 
 - [GitHub](https://github.com/alextbradley/PIG-CES) (⏱️ 15.05.2025):
 
@@ -51,7 +55,7 @@ This registry contains 2 WAVI example projects grouped into 0 categories. If you
 	git clone https://github.com/alextbradley/PIG-CES
 	```
 </details>
-<details><summary><b><a href="https://github.com/WAVI-ice-sheet-model/EKI_idealised_PIG-example">EKI_idealised_PIG-example</a></b> (🥉7) -  <code>❗Unlicensed</code> <code>Idealised</code> <code>Antarctica</code></summary>
+<details><summary><b><a href="https://github.com/WAVI-ice-sheet-model/EKI_idealised_PIG-example">EKI_idealised_PIG-example</a></b> (🥉7) -  <code>❗Unlicensed</code> <code>Idealised</code> <code><img src="https://hatscripts.github.io/circle-flags/flags/aq.svg" style="display:inline;" width="13" height="13">Antarctica</code> <code>Pine Island Glacier</code></summary>
 
 - [GitHub](https://github.com/WAVI-ice-sheet-model/EKI_idealised_PIG-example) (⏱️ 29.09.2025):
 
@@ -64,7 +68,7 @@ This registry contains 2 WAVI example projects grouped into 0 categories. If you
 
 ## Contribution
 
-Contributions are encouraged and always welcome! If you like to add or update projects, choose one of the following ways:
+Contributions are encouraged and always welcome! If you like to add or update example projects, choose one of the following ways:
 
 - Open an issue by selecting one of the provided categories from the [issue page](https://github.com/WAVI-ice-sheet-model/example-registry/issues/new/choose) and fill in the requested information.
 - Modify the [projects.yaml](https://github.com/WAVI-ice-sheet-model/example-registry/blob/main/projects.yaml) with your additions or changes, and submit a pull request. This can also be done directly via the [Github UI](https://github.com/WAVI-ice-sheet-model/example-registry/edit/main/projects.yaml).
