@@ -23,12 +23,16 @@ categories:
 labels:
   - label: "Idealised"
     name: "Idealised"
+    logo: "globe_with_meridians"
   - label: "Real-world"
     name: "Real-world"
+    logo: "🌍"
   - label: "Antarctica"
     name: "Antarctica"
+    logo: "🇦🇶"
   - label: "Greenland"
     name: "Greenland"
+    logo: "🇬🇱"
 
 projects:
    - name: EKI_idealised_PIG-example
