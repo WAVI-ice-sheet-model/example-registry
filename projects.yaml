@@ -3,17 +3,27 @@ configuration:
   markdown_footer_file: "config/footer.md"
 
 categories:
-  # - category: "data-engineering"
-  #   title: "Machine Learning & Data Engineering"
-  #   subtitle: "Best-of lists about machine learning, data engieering, data science, or other topics related to big data."
+   - category: "EKI"
+     title: "Ensemble Kalman Inversion (EKI) examples"
+   - category: "Inversion"
+     title: "Inversion examples"
 
 labels:
-  # - label: "python"
-  #   image: "https://www.python.org/static/favicon.ico"
-  #   description: "Best-of list with Python projects"
+   - label: "Idealised"
+     description: "Idealised example"
+   - label: "Real-world"
+     description: "Real-world example"
+   - label: "Antarctic"
+     description: "Antarctic example"
+   - label: "Greenland"
+     description: "Greenland example"
 
 projects:
-  # - name: best-of-ml-python
-  #   github_id: ml-tooling/best-of-ml-python
-  #   labels: ["python"]
-  #   category: "data-engineering"
+   - name: EKI_idealised_PIG-example
+     github_id: WAVI-ice-sheet-model/EKI_idealised_PIG-example
+     labels: ["Idealised", "Antarctic"]
+     category: "EKI"
+   - name: PIG-CES
+     github_id: alextbradley/PIG-CES
+     labels: ["Real-world", "Antarctic"]
+     category: "EKI"
