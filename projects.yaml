@@ -12,7 +12,7 @@ configuration:
 categories:
   - category: "MISMIP"
     title: "Model Intercomparison"
-    subtitle: "Idealised intercomparison domains, including Marine Ice Sheet Model Intercomparison v1-v3 (MISMIP), Ice Shelf-Ocean MIP (ISOMIP), Marine Ice Sheet–Ocean MIP (MISOMIP)."
+    subtitle: "Idealised intercomparison domains, including Marine Ice Sheet Model Intercomparison v1-v3 (MISMIP), Ice Shelf-Ocean MIP (ISOMIP), Marine Ice Sheet-Ocean MIP (MISOMIP)."
   - category: "Amundsen Sea"
     title: "Amundsen Sea Sector"
     subtitle: "Including Pine Island Glacier and Thwaites Glacier"
@@ -39,9 +39,9 @@ labels:
 projects:
    - name: EKI_idealised_PIG-example
      github_id: WAVI-ice-sheet-model/EKI_idealised_PIG-example
-     labels: ["Idealised", "Antarctica", "PIG", "EKP", "Inversion"]
+     labels: ["Idealised", "Antarctica", "EKP", "Inversion"]
      category: "Amundsen Sea"
    - name: PIG-CES
      github_id: alextbradley/PIG-CES
-     labels: ["Real-world", "Antarctica", "PIG", "EKP"]
+     labels: ["Real-world", "Antarctica", "EKP"]
      category: "Amundsen Sea"
