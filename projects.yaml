@@ -26,10 +26,8 @@ labels:
   - label: "Real-world"
     name: "Real-world"
   - label: "Antarctica"
-    name: "Antarctica"
     image: https://hatscripts.github.io/circle-flags/flags/aq.svg
   - label: "Greenland"
-    name: "Greenland"
     image: https://hatscripts.github.io/circle-flags/flags/gl.svg
   - label: "PIG"
     name: "Pine Island Glacier"
