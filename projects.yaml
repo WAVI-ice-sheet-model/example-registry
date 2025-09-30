@@ -1,7 +1,9 @@
 configuration:
   min_stars: 0
   min_projectrank: 0
+  min_description_length: 0
   allowed_licenses: ["all"]
+  require_license: False
   project_inactive_months: 99999
   project_dead_months: 99999
   hide_empty_categories: True
