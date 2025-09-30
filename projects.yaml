@@ -13,8 +13,8 @@ configuration:
 categories:
   - category: "Standard WAVI"
     title: "Standard WAVI examples"
-  - category: "EKI"
-    title: "Ensemble Kalman Inversion (EKI) examples"
+  - category: "EKP"
+    title: "Ensemble Kalman Processes (EKP) examples"
   - category: "Inversion"
     title: "Inversion examples"
   - category: "MITgcm"
@@ -27,17 +27,19 @@ labels:
     name: "Real-world"
   - label: "Antarctica"
     name: "Antarctica"
-    logo: https://hatscripts.github.io/circle-flags/flags/aq.svg
+    image: https://hatscripts.github.io/circle-flags/flags/aq.svg
   - label: "Greenland"
     name: "Greenland"
-    logo: https://hatscripts.github.io/circle-flags/flags/gl.svg
+    image: https://hatscripts.github.io/circle-flags/flags/gl.svg
+  - label: "PIG"
+    name: "Pine Island Glacier"
 
 projects:
    - name: EKI_idealised_PIG-example
      github_id: WAVI-ice-sheet-model/EKI_idealised_PIG-example
-     labels: ["Idealised", "Antarctica"]
-     category: "EKI"
+     labels: ["Idealised", "Antarctica", "PIG"]
+     category: "EKP"
    - name: PIG-CES
      github_id: alextbradley/PIG-CES
-     labels: ["Real-world", "Antarctica"]
-     category: "EKI"
+     labels: ["Real-world", "Antarctica", "PIG"]
+     category: "EKP"

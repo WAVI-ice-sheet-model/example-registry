@@ -15,6 +15,8 @@
     <a href="https://github.com/WAVI-ice-sheet-model/example-registry/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/WAVI-ice-sheet-model/example-registry?color=green&label=updated"></a>
 </p>
 
-This registry contains {project_count} WAVI example repositories grouped into {category_count} categories. If you like to add or update projects, feel free to open an [issue](https://github.com/WAVI-ice-sheet-model/example-registry/issues/new/choose), submit a [pull request](https://github.com/WAVI-ice-sheet-model/example-registry/pulls), or directly edit the [projects.yaml](https://github.com/WAVI-ice-sheet-model/example-registry/edit/main/projects.yaml). Contributions are very welcome!
+This registry contains {project_count} WAVI example repositories grouped into {category_count} categories. The current categories and labels are _experimental_ and should be seen as placeholders.
+
+If you like to add or update projects, feel free to open an [issue](https://github.com/WAVI-ice-sheet-model/example-registry/issues/new/choose), submit a [pull request](https://github.com/WAVI-ice-sheet-model/example-registry/pulls), or directly edit the [projects.yaml](https://github.com/WAVI-ice-sheet-model/example-registry/edit/main/projects.yaml). Contributions are very welcome!
 
 Are you looking for *publications* that use WAVI? You can find these [on our website](https://wavi-ice-sheet-model.github.io/WAVI-website/publications/).
