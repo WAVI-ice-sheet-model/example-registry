@@ -25,8 +25,8 @@ This registry contains 2 WAVI example projects grouped into 0 categories. If you
 - 🥇🥈🥉&nbsp; Combined project-quality score
 - ⭐️&nbsp; Star count from GitHub
 - 🐣&nbsp; New project _(less than 6 months old)_
-- 💤&nbsp; Inactive project _(99999 months no activity)_
-- 💀&nbsp; Dead project _(99999 months no activity)_
+- 💤&nbsp; Inactive project _(18 months no activity)_
+- 💀&nbsp; Dead project _(36 months no activity)_
 - 📈📉&nbsp; Project is trending up or down
 - ➕&nbsp; Project was recently added
 - ❗️&nbsp; Warning _(e.g. missing/risky license)_
