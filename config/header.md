@@ -1,11 +1,11 @@
 <!-- markdownlint-disable -->
 <h1 align="center">
-    example-registry
+    WAVI example-registry
     <br>
 </h1>
 
 <p align="center">
-    <strong>🏆&nbsp; A ranked list of awesome projects. Updated weekly.</strong>
+    <strong>🏆&nbsp; A list of WAVI example repositories. Updated regularly.</strong>
 </p>
 
 <p align="center">
@@ -15,6 +15,4 @@
     <a href="https://github.com/WAVI-ice-sheet-model/example-registry/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/WAVI-ice-sheet-model/example-registry?color=green&label=updated"></a>
 </p>
 
-This curated list contains {project_count} awesome open-source projects with a total of {stars_count} stars grouped into {category_count} categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/WAVI-ice-sheet-model/example-registry/issues/new/choose), submit a [pull request](https://github.com/WAVI-ice-sheet-model/example-registry/pulls), or directly edit the [projects.yaml](https://github.com/WAVI-ice-sheet-model/example-registry/edit/main/projects.yaml). Contributions are very welcome!
-
-> 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
+This registry contains {project_count} WAVI example projects grouped into {category_count} categories. If you like to add or update projects, feel free to open an [issue](https://github.com/WAVI-ice-sheet-model/example-registry/issues/new/choose), submit a [pull request](https://github.com/WAVI-ice-sheet-model/example-registry/pulls), or directly edit the [projects.yaml](https://github.com/WAVI-ice-sheet-model/example-registry/edit/main/projects.yaml). Contributions are very welcome!
