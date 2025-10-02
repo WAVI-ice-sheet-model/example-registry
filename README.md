@@ -67,7 +67,7 @@ _Including Pine Island Glacier and Thwaites Glacier_
 	git clone https://github.com/alextbradley/PIG-CES
 	```
 </details>
-<details><summary><b><a href="https://github.com/WAVI-ice-sheet-model/EKI_idealised_PIG-example">EKI_idealised_PIG-example</a></b> (🥉7) -  <code>❗Unlicensed</code> <code>Idealised</code> <code><img src="https://hatscripts.github.io/circle-flags/flags/aq.svg" style="display:inline;" width="13" height="13"></code> <code>Ensemble Kalman Process</code> <code>Inversion</code></summary>
+<details><summary><b><a href="https://github.com/WAVI-ice-sheet-model/EKI_idealised_PIG-example">EKI_idealised_PIG-example</a></b> (🥉7 · 🐣) -  <code>❗Unlicensed</code> <code>Idealised</code> <code><img src="https://hatscripts.github.io/circle-flags/flags/aq.svg" style="display:inline;" width="13" height="13"></code> <code>Ensemble Kalman Process</code> <code>Inversion</code></summary>
 
 - [GitHub](https://github.com/WAVI-ice-sheet-model/EKI_idealised_PIG-example) (⏱️ 29.09.2025):
 
