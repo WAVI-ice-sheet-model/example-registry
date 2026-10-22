@@ -1,6 +1,7 @@
-## 📈 Trending Up
+## 📉 Trending Down
 
-_Projects that have a higher project-quality score compared to the last update. There might be a variety of reasons, such as increased downloads or code activity._
+_Projects that have a lower project-quality score compared to the last update. There might be a variety of reasons such as decreased downloads or code activity._
 
-- <b><a href="https://github.com/alextbradley/PIG-CES">PIG-CES</a></b> (🥇10 · 📈) - Code and Data for Detection and attribution of anthropogenic.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>Real-world</code> <code><img src="https://hatscripts.github.io/circle-flags/flags/aq.svg" style="display:inline;" width="13" height="13"></code> <code>Ensemble Kalman Process</code>
+- <b><a href="{}">EKI_idealised_PIG-example</a></b> (📉) -  <code>❗Unlicensed</code> <code>Idealised</code> <code><img src="https://hatscripts.github.io/circle-flags/flags/aq.svg" style="display:inline;" width="13" height="13"></code> <code>Ensemble Kalman Process</code> <code>Inversion</code>
+- <b><a href="{}">PIG-CES</a></b> (📉) -  <code>❗Unlicensed</code> <code>Real-world</code> <code><img src="https://hatscripts.github.io/circle-flags/flags/aq.svg" style="display:inline;" width="13" height="13"></code> <code>Ensemble Kalman Process</code>
 
